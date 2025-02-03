@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.wipro.java.oops;
+package com.wipro.java.oops.pojo;
 
 /**NO constructor
 * Getters have return value
