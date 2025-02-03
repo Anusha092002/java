@@ -4,7 +4,7 @@
 package com.wipro.java.oops.abstraction;
 
 /**
- * 
+ * Demonstrating the Abstraction concept
  */
 public class DemoAbstraction {
 	public static void main(String a[]) {
