@@ -4,7 +4,7 @@
 package com.wipro.java.evaluation;
 
 /**
- * This is Child calss
+ * This is Child class
  */
 public class SBI extends Bank {
 	private float balance;
