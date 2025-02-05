@@ -6,7 +6,7 @@ package com.wipro.java.collections;
 import java.util.LinkedList;
 
 /**
- * 
+ * LinkedList is an implementation of doubly Linked List.. with dynamic resizable feature..
  */
 public class LinkedListDemo {
 	  public static void main(String[] args) {

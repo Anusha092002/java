@@ -6,7 +6,7 @@ package com.wipro.java.collections;
 import java.util.HashMap;
 import java.util.Map;
 /**
- * 
+ * HashMap stores key-value pairs, key should be unique...
  */
 
 public class MapImplementation {
