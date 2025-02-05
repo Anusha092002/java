@@ -28,15 +28,15 @@ public class ArrayListDemo {
 	        l2.add(100);
 	        l2.add(200);
 
-	        // Step 2: Add all elements of l2 to l1 at index 1
+	        //  Add all elements of l2 to l1 at index 1
 	        l1.addAll(1, l2);
 	        System.out.println("After addAll(1, l2): " + l1);
 
-	        
+	        // Remove of an element from l1 having index 1
 	        l1.remove(1);
 	        System.out.println("After remove(1): " + l1);
 
-	        
+	        //Modifying the element 0 value to 5
 	        l1.set(0, 5);
 	        System.out.println("After set(0, 5): " + l1);
 	    }
