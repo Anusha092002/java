@@ -48,6 +48,10 @@ public class MoviesSort implements Comparable<MoviesSort>{
             System.out.println(movieComparable);
         }
     }
+	@Override
+	public String toString() {
+		return "Name: "+movie.getName()+" Rating: "+movie.getRating()+" Year: "+movie.getYear();
+	}
 	
 
 }
