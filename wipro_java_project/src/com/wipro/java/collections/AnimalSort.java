@@ -23,7 +23,7 @@ public class AnimalSort implements Comparable<AnimalSort> {
 	/**
 	 * @return the movie
 	 */
-	public AnimalPojo getMovie() {
+	public AnimalPojo getAnimalPojo() {
 		return animal;
 	}
 	public AnimalSort(AnimalPojo movie) {
