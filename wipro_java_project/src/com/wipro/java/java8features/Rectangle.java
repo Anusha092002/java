@@ -4,7 +4,7 @@
 package com.wipro.java.java8features;
 
 /**
- * 
+ * Implementing Shape Functional Interface
  */
 public class Rectangle implements Shape {
     private double length;
